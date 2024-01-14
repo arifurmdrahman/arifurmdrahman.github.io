@@ -6,8 +6,8 @@ subtitle: Lecturer at Brac University, Dhaka, Bangladesh
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>5A</p>
     <p>66, Dhaka 1212</p>
