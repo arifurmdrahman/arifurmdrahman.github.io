@@ -2,17 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Md Arifur Rahman
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th November 1997
     - name: Languages
-      value: English, German
+      value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: BS in EEE, Minor in Mathematics
+      institution: North South University, Dhaka, Bangladesh
       year: 1905
       description:
         - Description 1.
