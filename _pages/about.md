@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Adjunct Lecturer at Brac University, Dhaka, Bangladesh
 
 profile:
   align: right
